@@ -1,1 +1,1 @@
-# CalculationGame
+# Calculation Game
